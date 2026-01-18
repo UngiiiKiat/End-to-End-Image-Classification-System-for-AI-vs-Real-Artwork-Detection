@@ -92,7 +92,7 @@ Proyek ini dibangun menggunakan **Python** sebagai bahasa utama, dengan dukungan
   <tr>
     <td align="center" width="220">
       <img src="https://github.com/UngiiiKiat.png" width="110" height="110" style="border-radius: 50%;" />
-      <h3>Rangga Irwanto Putra Kiat</h3>
+      <h3>Rangga Irwanto Putra Kiat</h3>     
       <p><b>Role:</b> Data Analyst</p>
       <a href="https://github.com/UngiiiKiat">GitHub</a> • 
       <a href="www.linkedin.com/in/rangga-kiat">LinkedIn</a>

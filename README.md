@@ -99,10 +99,10 @@ Proyek ini dibangun menggunakan **Python** sebagai bahasa utama, dengan dukungan
     </td>
 
    <td align="center" width="220">
-      <img src="https://github.com/USERNAME2.png" width="110" height="110" style="border-radius: 50%;" />
+      <img src="https://github.com/afzanurhakim.png" width="110" height="110" style="border-radius: 50%;" />
       <h3>Muhammad Afza Nur Hakim</h3>
       <p><b>Role:</b> Data Scientist</p>
-      <a href="https://github.com/USERNAME2">GitHub</a> • 
+      <a href="https://github.com/afzanurhakim">GitHub</a> • 
       <a href="https://www.linkedin.com/in/LINKEDIN2/">LinkedIn</a>
     </td>
 
@@ -124,3 +124,4 @@ Proyek ini dibangun menggunakan **Python** sebagai bahasa utama, dengan dukungan
   </tr>
 </table>
 
+<div align="center"> <p>Made with ❤️ by TrueOrigin Team</p> </div>
